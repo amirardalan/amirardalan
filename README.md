@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amirardalan
-- 👀 I’m interested in Front-end Engineering, React, UI Design, and Web Accessibility
-- 🌱 I’m currently learning/improving skills in Three.js, TypeScript, React, and Angular
+- 👀 I’m interested in Front-end Engineering, React, UI Design, and accessibility for the web
+- 🌱 I'm currently refining my skills in UI Design, TypeScript, React (Next.js) and Three.js
 - 💞️ I’m looking to collaborate on interesting open-source Next.js projects
 - 📫 @amirardalan on Twitter
 
