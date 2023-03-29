@@ -2,7 +2,7 @@
 
 I'm a developer and designer who's passionate about crafting outstanding digital experiences.
 
-Digital Prototype Developer @ [Nike Innovation Center](https://lebronjamesinnovationcenter.nike.com/)  
+Software Engineer II @ [Nike Innovation Center](https://lebronjamesinnovationcenter.nike.com/)  
 
 ----
 
