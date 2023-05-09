@@ -8,7 +8,7 @@ Software Engineer II @ [Nike Innovation Center](https://lebronjamesinnovationcen
 
 Blog: [amirardalan.com](https://amirardalan.com)  
 Twitter: [@amirardalan](https://twitter.com/amirardalan)  
-Contact: hi@amirardalan.com
+Email: hi@amirardalan.com
 
 <!---
 amirardalan/amirardalan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
