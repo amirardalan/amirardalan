@@ -7,7 +7,7 @@ Digital Innovator @ [Nike Innovation Center](https://lebronjamesinnovationcenter
 ----
 
 Blog: [amirardalan.com](https://amirardalan.com)  
-Twitter: [@amirardalan](https://twitter.com/amirardalan)  
+X: [@amirardalan](https://x.com/amirardalan)  
 Email: hi@amirardalan.com
 
 <!---
