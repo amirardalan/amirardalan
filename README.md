@@ -1,8 +1,8 @@
 ## Hey there, I'm Amir! 👋
 
-I'm a developer and designer who's passionate about crafting outstanding digital experiences.
+I'm a Design Engineer who's passionate about crafting outstanding digital experiences.
 
-Digital Innovator @ [Nike Innovation Center](https://lebronjamesinnovationcenter.nike.com/)  
+Currently writing code @ [Nike](https://lebronjamesinnovationcenter.nike.com/)  
 
 ----
 
