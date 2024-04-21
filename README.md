@@ -6,7 +6,7 @@ Currently building things @ [Nike](https://lebronjamesinnovationcenter.nike.com/
 
 ----
 
-Blog: [amirardalan.com](https://amir.sh)  
+Blog: [amir.sh](https://amir.sh)  
 X: [@amirardalan](https://x.com/amirardalan)  
 Email: hi@amir.sh
 
