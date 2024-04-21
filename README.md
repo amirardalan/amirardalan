@@ -6,9 +6,9 @@ Currently building things @ [Nike](https://lebronjamesinnovationcenter.nike.com/
 
 ----
 
-Blog: [amirardalan.com](https://amirardalan.com)  
+Blog: [amirardalan.com](https://amir.sh)  
 X: [@amirardalan](https://x.com/amirardalan)  
-Email: hi@amirardalan.com
+Email: hi@amir.sh
 
 <!---
 amirardalan/amirardalan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
