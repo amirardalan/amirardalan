@@ -1,6 +1,8 @@
-## Hey there, I'm Amir! 👋
+## Hey, I'm Amir 👋
 
-I'm a Software Engineer & Designer who's passionate about crafting outstanding digital experiences.
+### Design Engineer with 10+ years of experience based in Portland, OR.  
+I've collaborated with renowned brands including Nike, BASIC/DEPT®, Columbia Sportswear, SOREL, and KEEN Footwear.  
+I combine form and function to create innovative digital products that delight users and drive results.  
 
 Currently building things @ [Nike](https://lebronjamesinnovationcenter.nike.com/)  
 
