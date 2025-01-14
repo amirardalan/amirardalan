@@ -1,4 +1,4 @@
-## Hey, I'm Amir 👋
+Amir Ardalan ✌️
 
 ### Design Engineer with 10+ years of experience based in Portland, OR.  
 I've collaborated with renowned brands including Nike, BASIC/DEPT®, Columbia Sportswear, SOREL, and KEEN Footwear.  
