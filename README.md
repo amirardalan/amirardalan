@@ -1,6 +1,6 @@
 Amir Ardalan ✌️
 
-### Frontend Engineer with 10+ years of experience based in Portland, OR.  
+### Fullstack Engineer with 10+ years of experience based in Portland, OR.  
 I've collaborated with renowned brands including Nike, BASIC/DEPT®, Columbia Sportswear, SOREL, and KEEN Footwear.  
 I combine form and function to create innovative digital products that delight users and drive results.  
 
