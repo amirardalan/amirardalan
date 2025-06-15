@@ -4,7 +4,7 @@ Amir Ardalan ✌️
 I've collaborated with renowned brands including Nike, BASIC/DEPT®, Columbia Sportswear, SOREL, and KEEN Footwear.  
 I combine form and function to create innovative digital products that delight users and drive results.  
 
-> Currently building things @ [Nike](https://lebronjamesinnovationcenter.nike.com/)  
+> Currently building things @ [Realms Software](https://github.com/realmssoftware)
 
 ----
 
