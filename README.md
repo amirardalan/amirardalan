@@ -5,10 +5,12 @@ I've collaborated with renowned brands including Nike, BASIC/DEPT®, Columbia Sp
 I combine form and function to create innovative digital products that delight users and drive results.  
 
 ----
+#### Interested in working together? Get in touch:
 
+Email: hi@amir.sh  
 Blog: [amir.sh](https://amir.sh)  
+LinkedIn: [/in/amirardalan](https://linkedin.com/in/amirardalan)  
 X: [@amirardalan](https://x.com/amirardalan)  
-Email: hi@amir.sh
 
 <!---
 amirardalan/amirardalan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
