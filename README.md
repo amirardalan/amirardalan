@@ -1,16 +1,14 @@
-Hi, I'm Amir Ardalan ✌️
+Amir Ardalan
 
-### Frontend Engineer and UI/UX specialist based in Portland, OR.  
-I've collaborated with renowned brands including Nike, BASIC/DEPT®, Columbia Sportswear, SOREL, and KEEN Footwear.  
+### Senior UI/UX Engineer based in Portland, OR.  
+I've collaborated with brands like Nike, BASIC/DEPT®, Columbia Sportswear, KEEN Footwear, SOREL, and Mountain Hardwear.  
 I combine form and function to create innovative digital products that delight users and drive results.  
 
 ----
 #### Interested in working together? Get in touch:
 
 Email: hi@amir.sh  
-Blog: [amir.sh](https://amir.sh)  
-LinkedIn: [/in/amirardalan](https://linkedin.com/in/amirardalan)  
-X: [@amirardalan](https://x.com/amirardalan)  
+Web: [amir.sh](https://amir.sh)  
 
 <!---
 amirardalan/amirardalan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
