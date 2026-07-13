@@ -1,9 +1,6 @@
-Amir Ardalan _- Portland, Oregon, USA_
-### Senior Front-End & UI/UX Engineer
+### Design Engineer
 
-#### I design and build polished digital products with a systems-minded approach across interface design, front-end architecture, data, APIs, and product strategy.
-
-#### I’ve collaborated with brands including Nike, BASIC/DEPT®, Columbia Sportswear, KEEN Footwear, SOREL, and Mountain Hardwear, creating refined user experiences that are intuitive, performant, and built to scale.
+#### I’m a Design Engineer working across interface design, prototyping, and front-end development. My background is in React, TypeScript, responsive UI, and design systems. I use code as a design tool to turn ideas into clear, usable, production-ready products.
 
 <!---
 amirardalan/amirardalan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
