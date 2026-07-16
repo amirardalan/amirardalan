@@ -1,6 +1,4 @@
-### Design Engineer
-
-#### I’m a Design Engineer working across interface design, prototyping, and front-end development. My background is in React, TypeScript, responsive UI, and design systems. I use code as a design tool to turn ideas into clear, usable, production-ready products.
+human • design engineer
 
 <!---
 amirardalan/amirardalan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
